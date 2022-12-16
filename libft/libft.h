@@ -6,7 +6,7 @@
 /*   By: mtigunit <mtigunit@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/17 19:56:25 by mtigunit          #+#    #+#             */
-/*   Updated: 2022/12/12 17:19:09 by mtigunit         ###   ########.fr       */
+/*   Updated: 2022/12/16 17:44:11 by mtigunit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -72,5 +72,6 @@ t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
 
 /* new functions */
 char	*ft_strrev(char *str);
+char	*get_next_line(int fd);
 
 #endif
