@@ -1,4 +1,7 @@
 # Libft
+<p align="center" > 
+	<img src="125.png" width="207" />
+</p>
 
 ## Description
 Libft is a library that contains a collection of functions aimed at providing a useful tool for your cursus. It includes implementations of standard C library functions, as well as additional functions that are either not found in the libc or are provided in a different form. This library will serve as a foundation for many of your future projects, allowing you to easily reuse and expand upon these functions.
